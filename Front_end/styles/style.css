@@ -1,0 +1,27 @@
+#update{
+    display: none;
+}
+body{
+    background: linear-gradient(to right, #FEAC5E, #C779D0, #4BC0C8);
+    color: #fff;
+    font-weight: 600;
+    font-family: 'segoe ui light';
+    letter-spacing: 2px;
+    min-height: 100vh;
+}
+
+input,textarea{
+    background-color: #cacaca !important;
+    border-color: #cacaca !important;
+    color: #41464b !important;
+    font-weight: 600 !important;
+    letter-spacing: 2px;
+
+}
+.shadow{
+    box-shadow: 0 0.7rem 1rem rgba(0,0,0,.15)!important;
+}
+#add{
+    background: linear-gradient(to right, #FEAC5E, #C779D0, #4BC0C8);
+    color: #fff;
+}
